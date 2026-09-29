@@ -1,0 +1,21 @@
+# participant data never goes in the repository
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# anything that might hold raw or record-level data by accident
+*.csv
+!results/**/*.csv
+
+# python and jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# system files
+.DS_Store
+Thumbs.db
