@@ -1,6 +1,6 @@
 # GAME program: survey analysis
 
-Analysis code for the manuscript *Dance is Medicine: A Mixed Methods Pilot Study Using Gospel Afrobeat to Promote Physical Activity*.
+Analysis code for the manuscript *Dance is Medicine: A Mixed Methods Pilot of Gospel Afrobeats to Promote Physical Activity*.
 
 GAME is an 8-week, family-based dance program built around Gospel and Afrobeats music, delivered at three community sites in South-Central Wisconsin between April 2024 and March 2025. This repository holds the code behind the quantitative results: participant characteristics, the participant flow, and the paired survey comparisons shown in the manuscript's tables and figures.
 
